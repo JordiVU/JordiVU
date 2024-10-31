@@ -3,7 +3,7 @@
 <h1>SKILLS</h1>
 <a href="https://skillicons.dev/"> <img src="https://skillicons.dev/icons?i=html,css,js,lua,blender,discord,bots"> </a>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordiVU&layout=compact&theme=dark)](https://github.com/JordiVU/github-readme-stats)ç
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordiVU&layout=compact&theme=dark)](https://github.com/JordiVU/github-readme-stats)
 
  <hr>
 
